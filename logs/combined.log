@@ -3,3 +3,20 @@
 {"level":"info","message":"::1 - - [22/Sep/2025:16:37:55 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
 {"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [22/Sep/2025:16:39:47 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:07:03 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:07:03 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:07:14 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:07:18 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:07:34 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:07:39 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:08:55 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:09:09 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:09:14 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:09:51 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:10:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:10:24 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Sep/2025:16:10:26 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 32 \"-\" \"PostmanRuntime/7.44.1\"","service":"acquisitions-api"}

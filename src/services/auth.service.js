@@ -43,7 +43,6 @@ export const createUser = async ({ name, email, password, role }) => {
         email: users.email,
         role: users.role,
         createdAt: users.createdAt,
-        updatedAt: users.updatedAt,
       });
 
     return newUser;

@@ -20,11 +20,17 @@ export const signup = async (req, res, next) => {
     //AUTH Service
     const user = await createUser({ name, email, password, role });
 
-    const token = jwttoken.sign({
-      id: user.id,
-      email: user.email,
-      role: user.role,
-    });
+    const token = jwttoken.sign(
+      {
+        id: user.id,
+        email: user.email,
+        role: user.role,
+      },
+      process.env.JWT_SECRET,
+      {
+        expiresIn: process.env.JWT_EXPIRES_IN,
+      }
+    );
 
     cookies.set(res, 'token', token);
 

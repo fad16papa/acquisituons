@@ -49,3 +49,15 @@
 {"level":"info","message":"::1 - - [27/Sep/2025:16:30:35 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 116 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquisitions-api"}
 {"level":"info","message":"User test123@test.com signed up successfully as admin","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [28/Sep/2025:15:08:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 116 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Blocked bot request","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [04/Oct/2025:16:36:27 +0000] \"GET /health HTTP/1.1\" 403 66 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Blocked bot request","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [04/Oct/2025:16:37:52 +0000] \"GET /health HTTP/1.1\" 403 66 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [04/Oct/2025:16:38:44 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [04/Oct/2025:16:38:45 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [04/Oct/2025:16:38:51 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [04/Oct/2025:16:38:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
